@@ -1,6 +1,6 @@
 # Table of contents
 
-* [lighthouse LIDAR by Curio](README.md)
+* [lighthouse - LiDAR by Curio](README.md)
 
 ## Support
 
@@ -9,5 +9,7 @@
 ## Developers
 
 * [Android Integration](developers/android-integration.md)
-* [Specifications](developers/specifications.md)
+* [API](developers/api.md)
+* [lighthouse Specifications](developers/specifications.md)
+* [Data Stream Architecture](developers/data-stream-architecture.md)
 

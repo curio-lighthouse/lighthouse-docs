@@ -1,10 +1,10 @@
 ---
-description: Wireless LIDAR for Android
+description: Wireless LiDAR for Android
 ---
 
-# lighthouse LIDAR by Curio
+# lighthouse - LiDAR by Curio
 
-lighthouse is a wireless LIDAR scanner for Android
+**lighthouse** is a wireless LiDAR scanner for Android.
 
 
 

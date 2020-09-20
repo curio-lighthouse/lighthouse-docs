@@ -6,7 +6,7 @@ description: You've got questions - we have answers
 
 ## What is LiDAR?
 
-LiDAR stands for Light Detection And Ranging and is a method for measuring distances using a laser and optical sensor combination device.  A LiDAR device functions by measuring the time between shining the laser on an object and the optical sensor detecting the laser light reflected back by object.  Using the speed of light and the time measurement, the LiDAR device is able to calculate the distance to the object reflecting the laser light.
+LiDAR stands for Light Detection And Ranging.  LiDAR is a method for measuring distances using a laser and optical sensor combination device.  A LiDAR device functions by measuring the time between shining the laser on an object and the optical sensor detecting the laser light reflected back by object.  Using the speed of light and the time measurement, the LiDAR device is able to calculate the distance to the object reflecting the laser light.
 
 #### LiDAR is commonly used in:
 
@@ -26,6 +26,12 @@ For Developers; lighthouse is a lightweight and easy to integrate solution for b
 **lighthouse** is full product.  It's battery powered and connectable via Bluetooth while still maintaining a price which is inline with LiDAR devices which need integration into a full product.  **lighthouse** is ready for the consumer and developer right out of the box - just turn it on and connect!
 
 We've noticed a lack in documentation for existing LiDAR devices and so we've made it our goal to provide as much developer support and documentation as possible in order to expand accessibility to LiDAR technology.
+
+## How long does the battery last?
+
+You should expect roughly 3 hours while **lighthouse** is spinning \(running and collecting data\).  Or 6 hours while on stand-by \(not spinning or collecting data\).
+
+Charging should take about 1 hour for a completely drained battery.
 
 ## Does lighthouse support IOS?
 
@@ -51,5 +57,7 @@ Let us know what you've built and we'll feature it here!
 
 Yes!  Please get in touch with us:
 
-## 
+## Does lighthouse work in the dark?
+
+Yes.  Due to the way LiDAR works, **lighthouse** will actually provide better results when in dim light environments.
 

@@ -4,7 +4,7 @@
 
 ## Support
 
-* [FAQs](support/untitled.md)
+* [FAQs](support/faq.md)
 
 ## Developers
 
@@ -14,4 +14,5 @@
 * [Data Stream Architecture](developers/data-stream-architecture.md)
 * [Raspberry Pi Scripts](developers/raspberry-pi-scripts.md)
 * [Bluetooth Connection](developers/bluetooth-connection.md)
+* [Raspberry Pi Installation Requirements](developers/raspberry-pi-installation-requirements.md)
 

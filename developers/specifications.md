@@ -2,7 +2,7 @@
 description: Technical Specifications
 ---
 
-# lighthouse Specifications
+# Lighthouse Specifications
 
 <table>
   <thead>

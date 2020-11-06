@@ -23,7 +23,7 @@ For Developers; lighthouse is a lightweight and easy to integrate solution for b
 
 ## How does lighthouse compare to other existing LiDAR products?
 
-**lighthouse** is full product.  It's battery powered and connectable via Bluetooth while still maintaining a price which is inline with LiDAR devices which need integration into a full product.  **lighthouse** is ready for the consumer and developer right out of the box - just turn it on and connect!
+**lighthouse** is a consumer ready product.  It's battery powered and connectable via Bluetooth while still maintaining a price which is inline with LiDAR devices which need integration into a full product.  **lighthouse** is ready for the consumer and developer right out of the box - just turn it on and connect!
 
 We've noticed a lack in documentation for existing LiDAR devices and so we've made it our goal to provide as much developer support and documentation as possible in order to expand accessibility to LiDAR technology.
 
@@ -48,7 +48,7 @@ There are plenty of applications for LiDAR, we would love to see what you can do
 * Room mapping/Floor planning
 * Robot navigation and automation
 * Security
-* Virtual touchscreen
+* Virtual touchscreen, human computer interface
 * Social distancing
 
 Let us know what you've built and we'll feature it here!

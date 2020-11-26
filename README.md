@@ -6,7 +6,11 @@ description: Wireless LiDAR for Android
 
 **lighthouse** is a wireless LiDAR scanner for Android.
 
+![Lighthouse wireless LiDAR device](.gitbook/assets/img_1265.jpg)
+
 ## Getting started with your Lighthouse device
+
+![](.gitbook/assets/screen-shot-2020-11-24-at-6.11.53-pm.png)
 
 #### First steps:
 

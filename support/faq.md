@@ -55,7 +55,7 @@ Let us know what you've built and we'll feature it here!
 
 ## Do you offer discounts for educators and researchers?
 
-Yes!  Please get in touch with us:
+Yes!  Please get in touch with us: support@curiolighthouse.com
 
 ## Does lighthouse work in the dark?
 

@@ -61,3 +61,7 @@ Yes!  Please get in touch with us: support@curiolighthouse.com
 
 Yes.  Due to the way LiDAR works, **lighthouse** will actually provide better results when in dim light environments.
 
+## Can I modify the hardware or integrate with the Raspberry Pi GPIO pins?
+
+No, not without voiding your warranty.  The reasoning behind this decision is because the Raspberry Pi Zero W is a fairly sensitive device - accidentally switching the power wires or other small errors can kill the board, even if the connection occurred for just a mere second.  
+

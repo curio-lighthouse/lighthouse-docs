@@ -38,7 +38,7 @@ Charging should take about 1 hour for a completely drained battery.
 At this time **lighthouse** does not support IOS.
 
 {% hint style="info" %}
-We have planned to add IOS integration in the near future!
+We have planned to add IOS integration in the near future!  In order to support IOS, we will need to allow connections to Lighthouse using either Bluetooth or Wifi.  Currently, Lighthouse supports Bluetooth connections, however, IOS restricts data transferring over Bluetooth for non-Apple-approved products.  Thus, we will need to add functionality to transfer data to IOS devices over Wifi instead.
 {% endhint %}
 
 ## What can I do with lighthouse?

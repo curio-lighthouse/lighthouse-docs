@@ -6,7 +6,7 @@ description: Wireless LiDAR for Android
 
 **Buy here:** [**http://curiolighthouse.com/**](http://curiolighthouse.com/)\*\*\*\*
 
-![Lighthouse wireless LiDAR device](.gitbook/assets/img_1265.jpg)
+![](.gitbook/assets/img_1265-1-.png)
 
 ## Getting started with your Lighthouse device
 

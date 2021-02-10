@@ -4,7 +4,7 @@ description: Curio LiDAR LLC warranty against manufacturing defects and workmans
 
 # Warranty
 
-**Curio LiDAR LLC warrants to the original purchaser that your hardware product shall be free from defects in material and workmanship for the length of 30 days from the date of purchase \(or delivery as may be required in certain jurisdictions\).  Except where prohibited by applicable law, this warranty is nontransferable and is limited to the original purchaser and the country in which the product was purchased.**   
+**Curio LiDAR LLC warrants to the original purchaser that your hardware product shall be free from defects in material and workmanship for the length of 30 days from the date of purchase \(or delivery as may be required in certain jurisdictions\).  Except where prohibited by applicable law, this warranty is nontransferable and is limited to the original purchaser and the country in which the product was purchased. Effective from 02/10/2021.**  
 
 
 ### **What does this warranty cover?**
@@ -24,12 +24,12 @@ description: Curio LiDAR LLC warranty against manufacturing defects and workmans
 
 ### **What is not covered under the warranty?**
 
-**This warranty does not cover problems or damage resulting from \(1\) accident, abuse, misapplication, or any unauthorized repair, modification or disassembly; \(2\) improper operation or maintenance, usage not in accordance with product instructions or connection to improper voltage supply; \(3\) use of consumables, such as replacement batteries, not supplied by Curio LiDAR LLC except where such restriction is prohibited by applicable law; \(4\) lost parts that were originally supplied with the Curio LiDAR LLC hardware product; \(5\) non-Curio LiDAR LLC branded parts and accessories even if sold with the Curio LiDAR LLC hardware product; \(6\) non-Curio LiDAR LLC services that may be accessed or controlled with a Curio LiDAR LLC hardware product;  or \(7\) normal wear and tear.**  
+**This warranty does not cover problems or damage resulting from \(1\) accident, abuse, misapplication, or any unauthorized repair, modification or disassembly; \(2\) improper operation or maintenance, usage not in accordance with product instructions or connection to improper voltage supply; \(3\) use of consumables, such as replacement batteries, not supplied by Curio LiDAR LLC except where such restriction is prohibited by applicable law; \(4\) lost parts that were originally supplied with the Curio LiDAR LLC hardware product; \(5\) Damage caused to non-Curio LiDAR LLC hardware through improper operation, installation, maintenance, usage not in accordance with product instructions; \(6\) non-Curio LiDAR LLC services that may be accessed or controlled with a Curio LiDAR LLC hardware product;  or \(7\) normal wear and tear.**  
 
 
 ### **How to utilize your warranty?**
 
-**The first thing to do if you think you may have a warranty claim is to visit https://docs.curiolighthouse.com/support/help where you will find a wide range of Support and FAQ pages with valuable technical assistance.**
+**The first thing to do if you think you may have a warranty claim is to visit** [**https://docs.curiolighthouse.com/support/help**](help.md) **where you will find a wide range of Support and FAQ pages with valuable technical support.**
 
 **If you do not find a solution on our website, please contact Curio through email \(support@curiolighthouse.com\) or through the chat functionality on our website.**  
 

@@ -22,6 +22,11 @@ A charge of $5 USD will be charged to the buyer for the return.
       1. Your first and last name
       2. Your email address and date of purchase **or** copy of your PayPal payment receipt
       3. \(optional\) Any feedback or reason for your return
+2. If you meet the return requirements, you will receive a paid postage label through email from us.
+
+## Return 
+
+After you receive the paid postage label from Curio LiDAR LLC, ship your device back in the original and undamaged packaging.  Once we receive your item and test it you will receive a refund for the original amount - $5 for shipping and handling.
 
 {% hint style="warning" %}
 For Warranty claims, please visit our [Warranty Page](warranty.md)

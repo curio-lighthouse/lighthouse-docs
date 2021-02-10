@@ -14,7 +14,7 @@ description: Curio LiDAR LLC warranty against manufacturing defects and workmans
 
 ### **How is the warranty honored?**
 
-**Curio’s entire liability and your exclusive remedy for any breach of warranty shall be, at Curio’s option, \(1\) to repair or replace the hardware, or \(2\) to refund the price paid, provided that the hardware is returned.  Shipping and handling charges may apply except where prohibited by applicable law.  Curio LiDAR LLC may, at its option, replace your product, offer to provide a functionally equivalent product, or repair any product with new, refurbished or used parts as long as such parts are in compliance with the product’s technical specifications.  Any replacement hardware product will be warranted for the remainder of the original warranty period or thirty \(30\) days, whichever is longer, or for any additional period of time that may be applicable in your jurisdiction.**  
+**Curio LiDAR's entire liability and your exclusive remedy for any breach of warranty shall be, at Curio LiDAR's option, \(1\) to repair or replace the hardware, or \(2\) to refund the price paid, provided that the hardware is returned.  Shipping and handling charges may apply except where prohibited by applicable law.  Curio LiDAR LLC may, at its option, replace your product, offer to provide a functionally equivalent product, or repair any product with new, refurbished or used parts as long as such parts are in compliance with the product’s technical specifications.  Any replacement hardware product will be warranted for the remainder of the original warranty period or thirty \(30\) days, whichever is longer, or for any additional period of time that may be applicable in your jurisdiction.**  
 
 
 ### **How long does coverage last?**

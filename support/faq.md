@@ -97,3 +97,13 @@ You can only remove the Raspberry Pi Zero W from the **Build-Your-Own** kits.  T
 
 We are located in Rochester, NY!
 
+## Do you accept returns?
+
+Orders can be returned within 5 days of delivery to the original US destination.  **International orders cannot be returned**.  Read how to qualify and file a return on the [Returns Page](returns.md)
+
+{% hint style="warning" %}
+For Warranty claims, please visit our [Warranty Page](warranty.md)
+{% endhint %}
+
+
+

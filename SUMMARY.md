@@ -8,6 +8,7 @@
 * [Help](support/help.md)
 * [Shipping](support/shipping.md)
 * [Warranty](support/warranty.md)
+* [Returns](support/returns.md)
 
 ## Developers
 

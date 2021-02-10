@@ -2,7 +2,7 @@
 description: Wireless LiDAR for Android
 ---
 
-# lighthouse - LiDAR by Curio
+# Lighthouse - LiDAR by Curio LiDAR LLC
 
 **Buy here:** [**http://curiolighthouse.com/**](http://curiolighthouse.com/)\*\*\*\*
 

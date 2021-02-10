@@ -1,6 +1,6 @@
 # Table of contents
 
-* [lighthouse - LiDAR by Curio](README.md)
+* [Lighthouse - LiDAR by Curio LiDAR LLC](README.md)
 
 ## Support
 

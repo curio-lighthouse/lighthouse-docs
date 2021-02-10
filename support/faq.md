@@ -65,3 +65,35 @@ Yes.  Due to the way LiDAR works, **lighthouse** will actually provide better re
 
 No, not without voiding your warranty.  The reasoning behind this decision is because the Raspberry Pi Zero W is a fairly sensitive device - accidentally switching the power wires or other small errors can kill the board, even if the connection occurred for just a mere second.  
 
+## Why can't I buy the battery powered Lighthouse outside the US?
+
+Due to the restrictions on shipping batteries and battery powered devices internationally, we chosen not to offer the battery powered Lighthouse to international customers.  
+
+International customers are still able to purchase the USB powered Lighthouse device or Build-Your-Own kits!
+
+## Is there a battery powered Build-Your-Own kit?
+
+No.  Batteries can be pretty destructive devices if shorted and mistakenly connected.  As such, we've decided against having a Build-Your-Own kit with a battery. 
+
+## How is the Build-Your-Own Lighthouse powered?
+
+Micro USB.
+
+## Do I need to know how to code for the Build-Your-Own kits?
+
+Absolutely not!  The Build-Your-Own kits are designed for anyone and everyone to easily build their own Lighthouse device!
+
+## Do the Build-Your-Own kits include a Raspberry Pi or Micro SD card?
+
+The Build-Your-Own kits do not include a Raspberry Pi or Micro SD card.  You will need your own Raspberry Pi Zero W and Micro SD card.  
+
+We didn't want to make customers who already have a Raspberry Pi Zero W or Micro SD card available have to buy another.  Re-use your Raspberry Pi Zero W and SD cards across projects!
+
+## Can I remove my Raspberry Pi Zero W from Lighthouse
+
+You can only remove the Raspberry Pi Zero W from the **Build-Your-Own** kits.  The preassembled Lighthouse has an internal Raspberry Pi that is soldered in place and the case is sealed.
+
+## Where is Curio located?
+
+We are located in Rochester, NY!
+

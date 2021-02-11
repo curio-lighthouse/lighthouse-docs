@@ -105,5 +105,7 @@ Orders can be returned within 5 days of delivery to the original US destination.
 For Warranty claims, please visit our [Warranty Page](warranty.md)
 {% endhint %}
 
+## Can I use a Raspberry Pi Zero W with headers for the Build-Your-Own kit?
 
+Yes you can.
 

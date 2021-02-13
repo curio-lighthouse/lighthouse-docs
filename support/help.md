@@ -36,7 +36,9 @@ The power indicator light is visible through the hole which is left of the micro
 
 ### USB Powered
 
-The power indicator light will be blue when plugged in.
+The power indicator light will be red when plugged in.  
+
+If you are seeing a blue light with a Build-Your-Own kit, you likely have a poor connection somewhere.
 
 ## Connecting to Lighthouse with Bluetooth
 

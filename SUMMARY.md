@@ -10,6 +10,10 @@
 * [Warranty](support/warranty.md)
 * [Returns](support/returns.md)
 
+## Build-Your-Own Instructions
+
+* [Build-Your-Own Instructions](build-your-own-instructions/build-your-own-instructions.md)
+
 ## Developers
 
 * [Android Integration](developers/android-integration.md)

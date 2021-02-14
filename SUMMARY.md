@@ -10,9 +10,9 @@
 * [Warranty](support/warranty.md)
 * [Returns](support/returns.md)
 
-## Build-Your-Own Instructions
+## Build-Your-Own <a id="byo"></a>
 
-* [Build-Your-Own Instructions](build-your-own-instructions/build-your-own-instructions.md)
+* [Instructions](byo/build-your-own-instructions.md)
 
 ## Developers
 

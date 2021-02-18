@@ -2,7 +2,7 @@
 description: Raspberry Pi log file
 ---
 
-# Logging
+# Log File
 
 There is a log file containing logging output from the Raspberry Pi scripts. 
 

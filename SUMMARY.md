@@ -24,5 +24,5 @@
 * [Bluetooth Connection](developers/bluetooth-connection.md)
 * [Raspberry Pi Installation Requirements](developers/raspberry-pi-installation-requirements.md)
 * [Connecting to Lighthouse with SSH](developers/connecting-to-lighthouse-with-ssh.md)
-* [Logging](developers/logging.md)
+* [Log File](developers/log-file.md)
 

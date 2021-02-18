@@ -12,3 +12,13 @@ This script can be located in the root directory of the Raspberry Pi here:
 /lighthouse.out
 ```
 
+{% hint style="info" %}
+A good way to view this file in realtime through an ssh connection with the Raspberry Pi is the command below
+{% endhint %}
+
+```text
+tail -f /lighthouse.out
+```
+
+
+

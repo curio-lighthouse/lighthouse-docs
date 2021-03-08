@@ -13,6 +13,7 @@
 ## Build-Your-Own <a id="byo"></a>
 
 * [Instructions](byo/build-your-own-instructions.md)
+* [Raspberry Pi Image](byo/raspberry-pi-image.md)
 
 ## Developers
 
@@ -25,5 +26,4 @@
 * [Raspberry Pi Installation Requirements](developers/raspberry-pi-installation-requirements.md)
 * [Connecting to Lighthouse with SSH](developers/connecting-to-lighthouse-with-ssh.md)
 * [Log File](developers/log-file.md)
-* [Raspberry Pi Image](developers/raspberry-pi-image.md)
 

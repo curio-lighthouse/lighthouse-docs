@@ -33,12 +33,14 @@ You should expect roughly 3 hours while **lighthouse** is spinning \(running and
 
 Charging should take about 1 hour for a completely drained battery.
 
-## Does lighthouse support IOS?
+## Does lighthouse support IOS or MacOS?
 
 At this time **lighthouse** does not support IOS.
 
 {% hint style="info" %}
-We have planned to add IOS integration in the near future!  In order to support IOS, we will need to allow connections to Lighthouse using either Bluetooth or Wifi.  Currently, Lighthouse supports Bluetooth connections, however, IOS restricts data transferring over Bluetooth for non-Apple-approved products.  Thus, we will need to add functionality to transfer data to IOS devices over Wifi instead.
+We have planned to add IOS integration in the near future!  In order to support IOS, we will need to allow connections to Lighthouse using Bluetooth and Wifi.  Currently, Lighthouse only supports Bluetooth connections, however, IOS restricts data transferring over Bluetooth for non-Apple-approved products.  Thus, we will need to add functionality to transfer data to IOS devices over Wifi instead.
+
+We also plan on releasing a MacOS version which will allow users to plug the LiDAR module into their Mac with a USB adapter.
 {% endhint %}
 
 ## What can I do with lighthouse?
@@ -93,7 +95,7 @@ We didn't want to make customers who already have a Raspberry Pi Zero W or Micro
 
 You can only remove the Raspberry Pi Zero W from the **Build-Your-Own** kits.  The preassembled Lighthouse has an internal Raspberry Pi that is soldered in place and the case is sealed.
 
-## Where is Curio located?
+## Where is Curio LiDAR LLC located?
 
 We are located in Rochester, NY!
 

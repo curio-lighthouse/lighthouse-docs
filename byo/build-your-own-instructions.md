@@ -83,7 +83,7 @@ Either plug the female DuPont wires from the LiDAR module onto the header pins o
 
 ![](../.gitbook/assets/img_1655.jpg)
 
-Secure the Raspberry Pi Zero W to 4 short pillars in the Lighthouse case using the shortest screws provided in the bag.
+Secure the Raspberry Pi Zero W to the 4 short pillars in the Lighthouse case using the shortest screws provided in the bag.
 
 ![](../.gitbook/assets/img_1654.jpg)
 

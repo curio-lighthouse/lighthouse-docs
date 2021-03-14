@@ -16,6 +16,8 @@ You can buy the Build-Your-Own kit here: [https://curiolighthouse.wixsite.com/li
 * 1 x 6" 26 AWG black color stranded wire
 * 1 x 6" 26 AWG brown color female Dupont stranded wire
 * 1 x 6" 26 AWG green color female Dupont stranded wire
+* 1 x 6" 26 AWG red color female Dupont stranded wire
+* 1 x 6" 26 AWG black color female Dupont stranded wire
 * 6 x PVC shrink wrap tubing
 * 4 x LiDAR module screws
 * 4 x Raspberry Pi screws

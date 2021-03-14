@@ -96,7 +96,7 @@ Optionally you may super glue the **top cover** onto the **electrical cover.**
 {% endhint %}
 
 {% hint style="success" %}
-🎉 You're finished!  You build your own LiDAR module!
+🎉 You're finished!  You built your own LiDAR module!
 {% endhint %}
 
 
